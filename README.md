@@ -36,11 +36,11 @@ To develop a hybrid machine learning framework for detecting phishing attacks in
 
 ### Research Objectives
 
-1. **Novel Framework Design**: To design a novel hybrid phishing detection framework via supervised learning methods (SLM) with an unsupervised anomaly detection technique.
+1. To design a novel hybrid phishing detection framework via supervised learning methods (SLM) with an unsupervised anomaly detection technique.
 
-2. **Performance Evaluation**: To implement the performance of the proposed hybrid framework against shallow machine learning models using performance metrics such as accuracy, precision, recall, and ROC curve.
+2. To implement the performance of the proposed hybrid framework against shallow machine learning models using performance metrics such as accuracy, precision, recall, and ROC curve.
 
-3. **Model Interpretability**: To design a Shapley Additive Explanations (SHAP) framework and LIME to enhance model transparency and interpretability.
+3. To design a Shapley Additive Explanations (SHAP) framework and LIME to enhance model transparency and interpretability.
 
 ---
 
@@ -86,12 +86,6 @@ This study adopts an **experimental quantitative research design** to develop an
 2. **Random Forest** - Ensemble learning approach
 3. **Hybrid Model** - Combined supervised/unsupervised framework
 4. **Isolation Forest** - Unsupervised anomaly detection
-
-### Model Performance Highlights
-- **Best False Positive Rate**: Logistic Regression (29)
-- **Best False Negative Rate**: Random Forest (200)
-- **Most Balanced**: Hybrid Model
-
 ---
 
 ## ✨ Key Features
