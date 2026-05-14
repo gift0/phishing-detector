@@ -1,0 +1,38 @@
+<!-- docs/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phishing URL Detector</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🛡️ Phishing URL Detector</h1>
+    <p>Enter a website URL below to check if it is safe or phishing.</p>
+
+    <div class="input-group">
+      <input
+        type="text"
+        id="urlInput"
+        placeholder="https://example.com"
+        autocomplete="off"
+      />
+      <button id="checkBtn">Check</button>
+    </div>
+
+    <div id="result"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="features.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

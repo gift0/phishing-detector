@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+Lib/
+Scripts/
+Include/
+share/
+etc/
+pyvenv.cfg
+*.pkl
+
+# Data files (IMPORTANT: Don't push large datasets)
+data/
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints
+notebooks/
+*.ipynb
+
+# Output (research artifacts not needed for web app)
+output/
+src/
+create_figures.py
+debug_model.py
+export_model_to_json.py
+show_tree.py
+requirements.txt

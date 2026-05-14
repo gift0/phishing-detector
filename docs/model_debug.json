@@ -1,0 +1,31 @@
+{
+  "intercept": [
+    -11.283662059333363
+  ],
+  "features_with_coefficients": {
+    "url_length": 0.012844137441760927,
+    "hostname_length": 0.19129838225779133,
+    "path_length": 0.07981617846130463,
+    "num_subdirs": 8.876599154438079,
+    "num_dots": 3.0174164665245153,
+    "num_hyphens": 0.23174859361529218,
+    "num_digits": 0.21544092330596334,
+    "num_special_chars": 0.06397898663656426,
+    "at_symbol": 11.005040714081074,
+    "double_slash_in_path": 3.780054452528007,
+    "contains_ip": 8.022137072580994,
+    "has_https": 12.070836778460528,
+    "https_in_domain": 3.8082646348144555,
+    "domain_tokens": -0.2146945605003295,
+    "long_domain": -0.3534026370706522,
+    "suspicious_tld": 2.8402614335033616,
+    "phish_keywords": 0.6431326911026232,
+    "rule_suspicious_tld_and_keyword": -4.152223201378094,
+    "has_exe": -11.831283999272683,
+    "has_php": -0.494558648596376,
+    "has_html": -1.227536897580405,
+    "path_to_host_ratio": 2.197796678670554,
+    "num_query_params": 1.3128745509429118,
+    "num_fragments": 8.797749293427641
+  }
+}
