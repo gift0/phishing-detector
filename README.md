@@ -74,7 +74,7 @@ This study adopts an **experimental quantitative research design** to develop an
 - **PhishStorm**: Curated phishing samples
 - **Tranco**: Top legitimate websites ranking
 
-**Total URLs**: 280,960 samples  
+**Total URLs**: 296,138 samples  
 **Purpose**: Ensures diversity and representativeness of phishing and legitimate web samples
 
 ---
