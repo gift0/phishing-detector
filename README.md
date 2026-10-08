@@ -40,7 +40,7 @@ To develop a hybrid machine learning framework for detecting phishing attacks in
 
 2. To implement the performance of the proposed hybrid framework against shallow machine learning models using performance metrics such as accuracy, precision, recall, and ROC curve.
 
-3. To design a Shapley Additive Explanations (SHAP) framework and LIME to enhance model transparency and interpretability.
+3. To design a Shapley Additive Explanation framework (SHAP) and Local Interpretable Model-Agnostic Explanation (LIME) to address the black box issue and enhance the model transparency and interpretability.
 
 ---
 
