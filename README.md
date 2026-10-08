@@ -163,10 +163,13 @@ This study adopts an **experimental quantitative research design** to develop an
 
 ### Research Alignment
 Aligns with recent studies on phishing detection frameworks:
-- Liu et al. (2023)
-- Zhao et al. (2023)
-- Almomani et al. (2021)
-- Jain and Gupta (2022)
+- Barik et al. (2025)
+- Opara et al. (2024) 
+- Karim et al. (2023)
+- Ahammad et al. (2022)
+- Yang et al. (2021)
+- Alsariera et al. (2020)
+- Kunju et al. (2019)
 
 ---
 
@@ -253,9 +256,8 @@ phishing-detector/
 If you use this work in your research, please cite:
 
 \\\
-Maduabuchi, G. (2026). A Hybrid Machine Learning Framework for Detecting
-Phishing Attacks in Web Traffic. Master's Thesis, Africa Centre of Excellence
-on Technology Enhanced Learning (ACETEL).
+Maduabuchi, G., Saheed, K., & Adeyinka, A. (2026). A Hybrid Machine Learning Framework for Detecting
+Phishing Attacks in Web Traffic. Master's Thesis, Africa Centre of Excellence on Technology Enhanced Learning (ACETEL).
 \\\
 
 ---
